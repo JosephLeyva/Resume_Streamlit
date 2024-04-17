@@ -3,6 +3,9 @@ Personal Landing Page with Professional Information.
 
 My Resume, Skills, Projects & Accomplishments
 
+## Live Resume
+You can check my CV hosted on Streamlit [here](https://josephleyva.streamlit.app/)!
+
 ## Run it locally
 I have created a Docker Compose file, so you don't need to install the packages.
 
