@@ -13,12 +13,12 @@ Import Font from Google Fonts
 
 a {
     text-decoration: none;
-    color: white !important;
     font-weight: 500;
+    color: #1d3398;
 }
 
 a:hover {
-    color: #f1c40f !important;
+    color: #eaebf0 !important;
     text-decoration: none;
 }
 
@@ -31,7 +31,7 @@ hr {
     margin-bottom: 5%;
 }
 
-/* #MainMenu {
+#MainMenu {
     visibility: hidden;
 }
 
@@ -41,4 +41,4 @@ footer {
 
 header {
     visibility: hidden;
-} */
+}
