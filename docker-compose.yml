@@ -1,0 +1,12 @@
+
+version: '1.0'
+
+services:
+  app:
+    build: .
+    command: streamlit run app.py
+    volumes:
+      - ./portfolio:/app
+    ports:
+      - "8501:8501"
+    image: portfolio:1.0
